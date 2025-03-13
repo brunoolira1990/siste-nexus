@@ -1,0 +1,9 @@
+# Ignorar arquivos do macOS
+.DS_Store
+
+# Ignorar pastas de dependências
+node_modules/
+vendor/
+
+# Ignorar arquivos de configuração local
+.env
